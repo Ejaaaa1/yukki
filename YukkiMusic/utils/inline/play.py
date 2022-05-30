@@ -145,7 +145,7 @@ def stream_markup(_, videoid):
     buttons = [
         [
             InlineKeyboardButton(
-                text=_["channel"], url="https://t.me/Banyakinbersyukur",
+                text=_["channel"], url="https://t.me/BanyakinBersyukur",
             ),
             InlineKeyboardButton(
                 text=_["PL_B_3"], switch_inline_query_current_chat=""
