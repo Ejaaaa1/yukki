@@ -19,7 +19,6 @@ from YukkiMusic.utils.formatters import seconds_to_min
 from YukkiMusic.utils.inline import (stream_markup_timer,
                                      telegram_markup_timer)
 
-from ..admins.callback import wrong
 
 checker = {}
 
