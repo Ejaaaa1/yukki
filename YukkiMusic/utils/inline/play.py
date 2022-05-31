@@ -52,7 +52,7 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
         ],
         [
             InlineKeyboardButton(
-                text=_["S_B_4"], callback_data=f"https://t.me/BanyakinBersyukur"
+                text=_["CLOSEMENU_BUTTON"], callback_data="close"
             )
         ],
     ]
