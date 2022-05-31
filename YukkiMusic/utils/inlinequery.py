@@ -65,7 +65,7 @@ answer.extend(
         InlineQueryResultArticle(
             title="Loop Stream",
             description="Loop the current playing music. | Usage: /loop [enable|disable]",
-            thumb_url="https://telegra.ph/Loop-05-31
+            thumb_url="https://telegra.ph/Loop-05-31"
 ",
             input_message_content=InputTextMessageContent("/loop 3"),
         ),
