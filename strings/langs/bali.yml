@@ -1,0 +1,9 @@
+name : Bahasa Bali
+
+# String Umum
+general_1 : "Bales pesen pengguna, atau baang adan pengguna/ id_pengguna."
+general_2 : "Pelihan! Penggunaan Perintah Salah."
+general_3 : "makudang-kudang **pengecualian terjadi** saat memproses kueri Anda.\n\nJenis Pengecualian:- {0}"
+general_4 : "Anda adalah admin anonim di grup obrolan ini!\nKembali ke Akun Pengguna Dari Hak Admin."
+general_5 : "Anda harus menjadi admin dengan mengelola hak obrolan suara untuk melakukan tindakan ini."
+general_6 : "Bot tusing streaming di voice chat."
