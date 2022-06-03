@@ -43,4 +43,4 @@ __**New {what}**__
                     f"{logger_text}",
                     disable_web_page_preview=True,
                 )
-        return await mystic(_, message)
+        return 
