@@ -4,4 +4,3 @@
 
 ## 🖇 Mohon Maaf Tukang Clonenya Goblok 🗿
 
-https://anonfiles.com/t8QbZenay1
